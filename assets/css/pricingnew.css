@@ -1,0 +1,50 @@
+.pricing-table ul{ 
+    border-width: 1px; 
+    border-style: solid; 
+    border-color: #CCCCCC; 
+    border-radius: 3px; 
+    margin: 3px; 
+    width: 215px; 
+    text-align: center; 
+    list-style: none; 
+    float: left; 
+    padding: 6px; 
+    background-color: #FFFFFF; 
+} 
+.pricing-table ul li{ 
+    padding: 6px; 
+    background-color: #EFEFEF; 
+    border-width: 2px; 
+    border-color: #B83737; 
+    border-radius: 0px; 
+    border-bottom-width: 2px; 
+    font-size: 14px; 
+} 
+.pricing-table li:nth-child(odd){ 
+    background-color: #F7F7F7; 
+} 
+.pricing-table ul .heading{ 
+    color: #FFFFFF; 
+    background-color: #FF6B57; 
+    font-size: 16px; 
+} 
+.pricing-table ul .price{ 
+    font-size: 25px; 
+} 
+.pricing-table ul .action{ 
+    font-size: 14px; 
+    color: #FFFFFF; 
+} 
+
+.pricing-table .action a{ 
+    border-color: #32526E; 
+    border-width: 0px; 
+    border-radius: 2px; 
+    background-color: #32526E; 
+    padding-top: 5px; 
+    padding-bottom: 5px; 
+    padding-left: 20px; 
+    padding-right: 20px; 
+    border-style: solid; 
+    color: #FFFFFF; 
+}
