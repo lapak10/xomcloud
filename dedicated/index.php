@@ -1,6 +1,6 @@
 
- <?php echo file_get_contents('../header.php'); ?>
-<?php echo file_get_contents('../menu.php'); ?>
+ <?php echo file_get_contents('../shared/header.php'); ?>
+<?php echo file_get_contents('../shared/menu.php'); ?>
 
     <div class="page-heading" id="hosting-features-page">
 			<div class="inner xs">
@@ -133,5 +133,5 @@
 		</section>
 
 
-<?php echo file_get_contents('../review.php'); ?>
-<?php echo file_get_contents('../footer.php'); ?>
+<?php echo file_get_contents('../shared/review.php'); ?>
+<?php echo file_get_contents('../shared/footer.php'); ?>

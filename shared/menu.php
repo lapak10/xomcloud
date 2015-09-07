@@ -40,7 +40,7 @@ Template file for the menu links of the site.
           <a href="../index.html">Home</a>
         </li>
         <li>
-          <a href="index.html">Dedicated Servers</a>
+          <a href="../dedicated/index.php">Dedicated Servers</a>
 
         </li>
         <li>
